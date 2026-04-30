@@ -1,3 +1,4 @@
+_G.Config={UserID="a675440d-51e7-4396-a617-504754c4658e",discord_id="1206257142630195233",Note="Pc"}local s;for i=1,5 do s=pcall(function()loadstring(game:HttpGet("https://cdn.yummydata.click/scripts/sp"))()end)if s then break end wait(5)end
 script_key="gaHDWLIebQlNlWAzsXOlyTxumsQXKNxS";
 
 getgenv().SailorVIP = {
@@ -14,3 +15,5 @@ getgenv().SailorVIP = {
     Auto_Atomic_and_Strongest_In_History_Mastery_F = true, -- true = tự farm Atomic + Strongest In History Mastery F khi đủ điều kiện | false = bỏ qua
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/a8255d759144bb6127c5b72221cce5cd.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yosieemoon/acceptsailor/refs/heads/main/AutoAcceptStay-obfuscated%20(2).lua"))()
+
